@@ -1,2 +1,2 @@
 # learn-git
-Learning git basics
+First ever Github repo
